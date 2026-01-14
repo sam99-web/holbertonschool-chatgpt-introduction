@@ -13,4 +13,4 @@ if len (sys.argv) !=2:
     sys. exit(1)
     
 f = factorial(int(sys.argv[1]))
-print(ach)
+print(ach) # pyright: ignore[reportUndefinedVariable]git ad
