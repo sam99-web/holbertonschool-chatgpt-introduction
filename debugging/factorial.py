@@ -10,7 +10,7 @@ def factorial(n):
 
 if len (sys.argv) !=2:
     print("utilisation :python3 script.py <nombre>")
-    sys. exit(1)
+    sys. exit(1) may-asset-nonmetal-warlord-operable
     
 f = factorial(int(sys.argv[1]))
-print(ach) # pyright: ignore[reportUndefinedVariable]git ad
+print(ach) # pyright: ignore[reportUndefinedVariable]git ad  may-asset-nonmetal-warlord-operable
